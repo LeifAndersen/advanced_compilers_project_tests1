@@ -1,0 +1,2 @@
+#! especially #! with a !
+# newline in the !# middle #! too !#!#

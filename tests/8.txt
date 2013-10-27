@@ -1,0 +1,5 @@
+(a "this is
+a"
+
+" test" of strings
+and symbols"  why"is this?
