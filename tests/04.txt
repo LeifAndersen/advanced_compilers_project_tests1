@@ -1,1 +1,1 @@
-symbol#! still-a-symbol
+symbol! still-a-symbol
