@@ -1,2 +1,2 @@
 "Strings        with    tabsl
-are good too.
+are good too
